@@ -3,7 +3,7 @@
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler</h2>
-<h4>HTML-CSS-Javascript / HTML-CSS-Javascript kullanıldı</h4>
+<h4>HTML-Javascript / HTML-Javascript kullanıldı</h4>
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
