@@ -7,4 +7,8 @@
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
- ![](GithubUser.mp4)
+
+
+
+https://github.com/RamazanKun/Github-Finder/assets/129733537/3787f60f-a2ee-43fd-a823-33a4c6e050dd
+
